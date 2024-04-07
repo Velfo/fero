@@ -1,0 +1,6 @@
+__init__.py
+../.idea
+superlists/db.sqlite3
+.iws
+workspace.xml
+tasks.xml
